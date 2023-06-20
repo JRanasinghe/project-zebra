@@ -40,7 +40,7 @@ library
     Jambhala.Utils
 
 -- Add new contracts here, i.e.:
---  Contracts.MyContract
+    Contracts.PrescriptionMinting
 
   other-modules:
     Jambhala.CLI.Emulator
